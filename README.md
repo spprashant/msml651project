@@ -34,3 +34,12 @@ There are three zips in that location, each for one model:
 * Gradient Boosted Trees - gb_test_output.zip  
 
 The files are split into two, since Databricks has some issues downloading large files.
+The columns of interest are the `fare_amount` (actual value) and `prediction` (predicted_value).  
+  
+  
+## Final RMSE Values
+| Model                  | Final RMSE |
+| ---------------------- | ---------- |
+| Linear Regression      | 5.31       |
+| Random Forest          | 4.31       |
+| Gradient Boosted Trees | 4.08       |
