@@ -1,6 +1,12 @@
 # MSML 651 Project
 ## NYC Taxi Fare Prediction
 
+## Documentation
+The project document is available as a Microsoft Word document  
+[MSML651ProjectDoc.docx](MSML651ProjectDoc.docx)
+
+The associated presentation is available as a Microsoft Powerpoint document  
+[NYC_Taxi_Fare_Prediction.pptx](NYC_Taxi_Fare_Prediction.pptx)
 
 ## Code Files
 The actual code for this project is available in two formats:  
